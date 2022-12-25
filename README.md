@@ -18,6 +18,7 @@ $pip install mechanize
 $pip install rich 
 
 $git clone https://github.com/Abbakarhacker/MR_EO.git
+
 $ls
 
 $cd MR_EO
